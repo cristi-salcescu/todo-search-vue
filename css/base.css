@@ -1,0 +1,22 @@
+body {
+    width : 80%;
+    margin : 0 auto;
+}
+  
+.input {
+    font-size: 16px;
+    border: 1px solid #A71D20;
+    padding: 10px;
+}
+
+.btn {
+    font-size: 16px;
+    background-color: #A71D20;
+    color: #FFF;
+    border: 1px solid #A71D20;
+    cursor : pointer;
+    padding: 10px;
+}
+  
+
+  

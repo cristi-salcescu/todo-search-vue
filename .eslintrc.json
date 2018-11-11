@@ -1,0 +1,25 @@
+{
+    "root": true,
+    "extends": [
+        "eslint:recommended",
+        "plugin:vue/essential"
+    ],
+    "env": {
+      "browser": true,
+      "es6": true,
+      "jquery": true,
+      "jest": true,
+      "node": true
+    },
+    "rules": {
+      "semi": "error",
+      "max-params": ["error", 4],
+      "eqeqeq" : "error",
+      "no-invalid-this": "error",
+      "no-loop-func": "error",
+      "no-new-wrappers": "error"
+    },
+    "plugins": [
+        "vue"
+      ]
+  }
